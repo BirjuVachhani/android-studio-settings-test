@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Build Runner" description="Runs build runner command" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/flutter/bin/flutter" />
+      <option name="PARAMETERS" value="packages run build_runner build --delete-conflicting-outputs" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

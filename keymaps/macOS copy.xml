@@ -1,0 +1,20 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="FileChooser.ShowHiddens">
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="Tool_External Tools_Build Runner">
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+</keymap>
