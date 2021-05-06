@@ -6,6 +6,8 @@
   </component>
   <component name="UISettings">
     <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
+    <option name="MAX_LOOKUP_WIDTH2" value="778" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
