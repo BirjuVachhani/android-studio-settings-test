@@ -3,8 +3,9 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
+      <mapping pattern="Podfile" type="PLAIN_TEXT" />
+      <mapping pattern="tripwire" type="PLAIN_TEXT" />
       <mapping pattern="cov" type="PLAIN_TEXT" />
       <mapping pattern="ipa" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
