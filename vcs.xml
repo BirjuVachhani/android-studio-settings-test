@@ -98,9 +98,13 @@
           <option name="url" value="https://github.com/mwaylabs/flutter-apns.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:SimformSolutionsPvtLtd/flutter_video_cast.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Codelessly" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
