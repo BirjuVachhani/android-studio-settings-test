@@ -1,7 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
     <option name="darkTitleBar" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
